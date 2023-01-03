@@ -1,0 +1,33 @@
+.wheatherBg{
+  background: url(https://assets.architecturaldigest.in/photos/633178c5a38e47493d55aeb2/16:9/w_1615,h_908,c_limit/SaffronStays%20Ocean%20Pearl,%20Hejamady2.png);
+  background-size: cover;
+   height: 50vh;
+   display: flex;
+   align-items: center;
+   flex-direction: column;
+   justify-content: center;
+}
+
+
+.heading{
+  color: rgb(4, 4, 4);
+  font-weight: 700;
+}
+.wheatherResultBox{
+  margin: auto;
+  width: 500px;
+  height: 300px;
+}
+.wheatherIcon{
+  margin-top: 2rem;
+  width: 100px;
+  height: 100px;
+}
+.wheatherCity{
+  font-size: 35px;
+}
+.wheatherTemp{
+  font-size:55px;
+  font-weight: 700;
+}
+
